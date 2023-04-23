@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/microphone_1f3a4.png](https://images.emojiterra.com/google/android-12l/512px/1f399.png)" alt="Microphone" width="80" height="80">
+  <img src="https://images.emojiterra.com/google/android-nougat/512px/1f399.png" width="80" height="80">
 </p>
 <h1 align="center">Discord Voice Channel Manager 🎙️</h1>
 
@@ -52,4 +52,5 @@ If you need help with anything related to this script, feel free to join the off
 This script is intended for educational purposes only and I do not condone using it for any malicious purposes. Use at your own risk.
 
 <p align="center">
-  <img src="https://images-ext-2.discordapp.net/external/XlIyFrzLKgPO0Ict1g_RcXMI4_1JxIZOvT_DaFaYK30/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1091700912759771246/f573bcf42de85ee83f668dee8290148a.png?width=426&height=426</p>
+  <img src="https://images-ext-2.discordapp.net/external/XlIyFrzLKgPO0Ict1g_RcXMI4_1JxIZOvT_DaFaYK30/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1091700912759771246/f573bcf42de85ee83f668dee8290148a.png?width=426&height=426" width="80" height="80">
+  </p>
