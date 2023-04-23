@@ -18,7 +18,6 @@ BANNER = """
      ░░  ░         ░ ░ ░  ░ ░ ░ ▒   ▒ ░   ░   ░ ░    ░     ░░   ░ 
       ░  ░ ░       ░   ░      ░ ░   ░           ░    ░  ░   ░     
      ░   ░                                                        
-
                          By Yanzu
 """
 print(Fore.MAGENTA + BANNER)
@@ -70,7 +69,10 @@ async def run_bot():
             else:
                 print(Fore.RED + "> - Invalid voice channel ID.")
 
-        await client.start(token)
+        try:
+            await client.start(token)
+        except discord.LoginFailure:
+            print(Fore.RED + f"> - Invalid token: {token}")
 
     with open("tokens.txt") as f:
         tokens = f.read().splitlines()
@@ -89,4 +91,3 @@ async def run_bot():
 
 if __name__ == '__main__':
     asyncio.run(run_bot())
-
