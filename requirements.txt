@@ -1,4 +1,5 @@
 colorama==0.4.4
 os
 aiohttp
-
+pynacl
+numpy
